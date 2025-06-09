@@ -1,0 +1,5 @@
+langchain_google_genai=2.1.2
+browser_use=0.2.5
+browser-use[memory]
+dotenv=0.9.9
+streamlit

@@ -1,0 +1,15 @@
+# Cache files
+.DS_Store
+
+# Virtual Environments
+.venv*
+venv/
+
+# IDEs
+.vscode/
+.idea/
+
+# Secrets and sensitive files
+secrets.env
+.env
+browser_cookies.json
